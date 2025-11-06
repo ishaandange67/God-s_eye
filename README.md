@@ -1,1 +1,1 @@
-# Ishaan Dange's first repo
+# Ishaan Dange's first repository 
